@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Paolo 👋
 
-<!--
-**Bulgapaolo11/Bulgapaolo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **M.Sc. Student in Functional Genomics**  
+🧬 Passionate about Genomics, bioinformatics, computational biology, and omics data analysis.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 About Me
+- 📚 Currently studying Functional Genomics.
+- 🔭 Learning to develop molecular tools and data pipelines.
+- 🌱 I’m currently learning Python and R for data analysis and visualization
+
+- 📫 How to reach me: paolobulgarelli23@gmail.com
+
